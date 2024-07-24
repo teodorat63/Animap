@@ -46,7 +46,7 @@ fun RegistrationScreen() {
                     }
                 }
         }) {
-            Text("Register")
+            Text("Register here")
         }
     }
 }
